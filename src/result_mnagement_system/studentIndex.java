@@ -119,7 +119,7 @@ public class studentIndex extends javax.swing.JFrame {
             }
             else
             {
-                JOptionPane.showMessageDialog(null, "Incorrect Roll Number");
+                JOptionPane.showMessageDialog(null, "Incorrect Roll Number or Result Not Added");
             }
             
         }
