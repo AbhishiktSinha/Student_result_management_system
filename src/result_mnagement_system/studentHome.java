@@ -418,7 +418,7 @@ public class studentHome extends javax.swing.JFrame {
     private void BackActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BackActionPerformed
         // TODO add your handling code here:
         setVisible(false);
-        new index().setVisible(true);
+        new studentIndex().setVisible(true);
     }//GEN-LAST:event_BackActionPerformed
 
     private void formWindowOpened(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowOpened
